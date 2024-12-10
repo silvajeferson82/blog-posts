@@ -1,0 +1,21 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background: #eee;
+  padding: 30px;
+}
+
+.buttonn-container {
+  min-height: 100px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.search-container {
+  margin-bottom: 4%;
+}
+
+.search-container h1 {
+  margin-bottom: 4%;
+}

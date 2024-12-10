@@ -1,0 +1,21 @@
+.button {
+  width: 100%;
+  background: darkblue;
+  font-size: 130%;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 20px 30px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.button text {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.button:disabled {
+  background: #888;
+  cursor: not-allowed;
+}
