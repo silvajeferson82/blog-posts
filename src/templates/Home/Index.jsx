@@ -12,7 +12,7 @@ class Home extends React.Component {
     posts: [],
     allPosts: [],
     page: 0,
-    postsPerPage: 5,
+    postsPerPage: 3,
     searchValue: ''
   };
 
